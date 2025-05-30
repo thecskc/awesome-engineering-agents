@@ -1,25 +1,25 @@
-# Awesome Engineering Agents
+# Awesome Engineering Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/thecskc/awesome-engineering-agents/actions/workflows/lint.yml/badge.svg)](https://github.com/thecskc/awesome-engineering-agents/actions/workflows/lint.yml)
+[![Lint](https://github.com/thecskc/awesome-engineering-agents/actions/workflows/lint.yml/badge.svg)](https://github.com/thecskc/awesome-engineering-agents/actions/workflows/lint.yml)
 
 > AI-native agents that enhance the software engineering lifecycle. These tools represent the future of development—where human engineers collaborate with an AI workforce to build, test, and ship faster.
 
 ## Contents
 
 - [Awesome Engineering Agents](#awesome-engineering-agents)
-- [Code Generation](#-code-generation)
-- [Vibe Coding](#-vibe-coding)
-- [AI QA and Testing](#-ai-qa-and-testing)
-- [Code Review](#-code-review)
-- [Incident Response](#-incident-response)
-- [Documentation & Knowledge Management](#-documentation--knowledge-management)
+- [Code Generation](#code-generation)
+- [Vibe Coding](#vibe-coding)
+- [AI QA and Testing](#ai-qa-and-testing)
+- [Code Review](#code-review)
+- [Incident Response](#incident-response)
+- [Documentation & Knowledge Management](#documentation--knowledge-management)
 - [Contributing](#contributing)
 
 ## Awesome Engineering Agents
 
 A curated list of AI-powered engineering tools and agents that enhance the software development lifecycle.
 
-## 🧠 Code Generation
+## Code Generation
 AI-powered tools that help write, complete, and generate code. Includes code editors, pair programmers, and autonomous coding agents.
 
 - [Cursor](https://www.cursor.com) - AI-powered code editor using natural language for code editing.
@@ -32,7 +32,7 @@ AI-powered tools that help write, complete, and generate code. Includes code edi
 - [Imbue](https://imbue.com) - Building a coding agent environment to empower trustworthy software creation.
 - [Poolside](https://poolside.ai) - Frontier AI lab creating the most capable models for software development.
 
-## 🎨 Vibe Coding
+## Vibe Coding
 Tools focused on rapid app development and UI creation using AI. Ideal for prototyping and full-stack development via natural language interfaces.
 
 - [V0](https://v0.dev) - Design UI in natural language and generate clean React code instantly.
@@ -40,7 +40,7 @@ Tools focused on rapid app development and UI creation using AI. Ideal for proto
 - [Lovable](https://lovable.dev) - A personal full-stack engineer that helps you build apps via simple chat.
 - [Replit](https://replit.com) - Turns ideas into apps with AI-powered, in-browser development tools.
 
-## ✅ AI QA and Testing
+## AI QA and Testing
 Tools for automating test creation, maintenance, and execution using AI. No scripting required.
 
 - [Jina](https://www.usejina.com) - AI QA Engineer that autonomously tests your app and catches bugs.
@@ -48,7 +48,7 @@ Tools for automating test creation, maintenance, and execution using AI. No scri
 - [Sapient Codeless](https://sapient.ai) - AI-generated and maintained unit tests to remove testing bottlenecks.
 - [Tusk](https://www.usetusk.ai) - Generates unit tests on every PR with context-aware AI.
 
-## 🔍 Code Review
+## Code Review
 AI tools that assist with code review, identifying bugs, suggesting improvements, and maintaining code quality.
 
 - [Greptile](https://www.greptile.com) - AI code review assistant.
@@ -56,14 +56,14 @@ AI tools that assist with code review, identifying bugs, suggesting improvements
 - [Snyk Code (DeepCode AI)](https://snyk.io/product/code) - AI static analysis to find and fix vulnerabilities.
 - [Sourcery](https://sourcery.ai) - AI code reviewer suggesting refactors and improvements.
 
-## 🚨 Incident Response
+## Incident Response
 AI platforms for managing software incidents, alerts, and troubleshooting.
 
 - [Parity](https://tryparity.com) - AI SRE.
 - [Resolve.ai](https://resolve.ai) - AI that handles alerts, root cause analysis, and incident troubleshooting.
 - [incident.io](https://incident.io) - AI-powered incident management platform with workflows, on-call, and comms — all in one place.
 
-## 📄 Documentation & Knowledge Management
+## Documentation & Knowledge Management
 AI tools to generate and manage internal knowledge and documentation for engineering teams.
 
 - [Mintlify](https://mintlify.com) - AI-generated developer documentation from your codebase.
@@ -74,9 +74,3 @@ AI tools to generate and manage internal knowledge and documentation for enginee
 ## Contributing
 
 Contributions welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
