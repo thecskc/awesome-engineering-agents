@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run awesome-lint
-        uses: awesome-lint/awesome-lint@v0
+        uses: awesome-lint/awesome-lint@v0.1.0
