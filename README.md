@@ -1,4 +1,4 @@
-# Awesome Engineering Agents
+# Awesome Engineering Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > AI-native agents that enhance the software engineering lifecycle. These tools represent the future of development—where human engineers collaborate with an AI workforce to build, test, and ship faster.
 
