@@ -13,7 +13,6 @@
 - [Code Review](#code-review)
 - [Incident Response](#incident-response)
 - [Documentation & Knowledge Management](#documentation--knowledge-management)
-- [Contributing](#contributing)
 
 ## Awesome Engineering Agents
 
@@ -70,7 +69,3 @@ AI tools to generate and manage internal knowledge and documentation for enginee
 - [Swimm](https://swimm.io) - AI-linked docs to your code that update as the code changes.
 - [Redocly](https://redocly.com) - API documentation toolchain for managing and publishing OpenAPI docs.
 - [ReadMe](https://readme.com) - Build interactive, personalized API docs for your users.
-
-## Contributing
-
-Contributions welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) first.
