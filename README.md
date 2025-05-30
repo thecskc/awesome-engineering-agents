@@ -1,9 +1,12 @@
+# Awesome Engineering Agents
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/thecskc/awesome-engineering-agents/actions/workflows/lint.yml/badge.svg)](https://github.com/thecskc/awesome-engineering-agents/actions/workflows/lint.yml)
 
 > AI-native agents that enhance the software engineering lifecycle. These tools represent the future of development—where human engineers collaborate with an AI workforce to build, test, and ship faster.
 
 ## Contents
 
+- [Awesome Engineering Agents](#awesome-engineering-agents)
 - [Code Generation](#-code-generation)
 - [Vibe Coding](#-vibe-coding)
 - [AI QA and Testing](#-ai-qa-and-testing)
@@ -11,13 +14,10 @@
 - [Incident Response](#-incident-response)
 - [Documentation & Knowledge Management](#-documentation--knowledge-management)
 - [Contributing](#contributing)
-- [License](#license)
 
-## What is an awesome list?
+## Awesome Engineering Agents
 
-An awesome list is a curated list of resources on a specific topic. This list focuses on AI-powered engineering tools and agents that enhance the software development lifecycle.
-
----
+A curated list of AI-powered engineering tools and agents that enhance the software development lifecycle.
 
 ## 🧠 Code Generation
 AI-powered tools that help write, complete, and generate code. Includes code editors, pair programmers, and autonomous coding agents.
@@ -70,8 +70,6 @@ AI tools to generate and manage internal knowledge and documentation for enginee
 - [Swimm](https://swimm.io) - AI-linked docs to your code that update as the code changes.
 - [Redocly](https://redocly.com) - API documentation toolchain for managing and publishing OpenAPI docs.
 - [ReadMe](https://readme.com) - Build interactive, personalized API docs for your users.
-
----
 
 ## Contributing
 
