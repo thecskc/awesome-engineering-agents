@@ -28,7 +28,7 @@ Tools focused on rapid app development and UI creation using AI. Ideal for proto
 ## ✅ AI QA and Testing
 Tools for automating test creation, maintenance, and execution using AI. No scripting required.
 
-- [Jina AI QA Engineer](https://www.usejina.com) - AI user agents autonomously test your app without scripts.
+- [Jina](https://www.usejina.com) - AI QA Engineer that autonomously tests your app and catches bugs.
 - [Qodo (CodiumAI)](https://www.qodo.ai) - Agentic AI generating and guiding code tests and improvements.
 - [Sapient Codeless](https://sapient.ai) - AI-generated and maintained unit tests to remove testing bottlenecks.
 - [Tusk](https://www.usetusk.ai) - Generates unit tests on every PR with context-aware AI.
