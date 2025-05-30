@@ -2,6 +2,21 @@
 
 > AI-native agents that enhance the software engineering lifecycle. These tools represent the future of development—where human engineers collaborate with an AI workforce to build, test, and ship faster.
 
+## Contents
+
+- [Code Generation](#-code-generation)
+- [Vibe Coding](#-vibe-coding)
+- [AI QA and Testing](#-ai-qa-and-testing)
+- [Code Review](#-code-review)
+- [Incident Response](#-incident-response)
+- [Documentation & Knowledge Management](#-documentation--knowledge-management)
+- [Contributing](#contributing)
+- [License](#license)
+
+## What is an awesome list?
+
+An awesome list is a curated list of resources on a specific topic. This list focuses on AI-powered engineering tools and agents that enhance the software development lifecycle.
+
 ---
 
 ## 🧠 Code Generation
@@ -58,4 +73,12 @@ AI tools to generate and manage internal knowledge and documentation for enginee
 
 ---
 
-Contributions welcome! Please follow the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md).
+## Contributing
+
+Contributions welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) first.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
